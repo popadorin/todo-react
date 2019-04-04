@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Todo from '../Todo/Todo';
+import Todo from '../components/Todo/Todo';
 import './App.css';
 
 const initTodoItems = [
