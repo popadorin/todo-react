@@ -15,3 +15,7 @@ You should have installed NodeJS and npm in order to download and run the server
 
 1. `npm run build` (to create `build` folder, which is plain html,css,js).
 2. `npm i -g serve` && `serve -s build -l 5000` (deploys the project locally on `localhost:5000`).
+ 
+ 
+> The project was initialized with CRA (Create React App) official initializer from Facebook.
+ 
